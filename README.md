@@ -9,12 +9,7 @@ Code Crafters
 
 ## Team Members
 
-| S.No. | Name | Roll Number | Contribution |
-| 1 | Rachna | 26CSU064 | Team Leader, main game logic and integration |
-| 2 | Punya | 26CSU043 | Board initialization and display |
-| 3 | Vrinda | 26CSU042 | Player input and validation |
-| 4 | Diksha | 26CSU070 | Winner and draw detection |
-| 5 | Kunalika | 26CSU041 | Testing, debugging and documentation |
+<img width="782" height="367" alt="image" src="https://github.com/user-attachments/assets/c2b571fc-4e01-490f-a588-66360e8e99ac" />
 
 ## Project Description
 
