@@ -7,7 +7,7 @@ A console-based two-player Tic-Tac-Toe game developed in C programming as part o
 ## Team Name
 Code Crafters
 
-## Team Members
+
 
 <img width="782" height="367" alt="image" src="https://github.com/user-attachments/assets/c2b571fc-4e01-490f-a588-66360e8e99ac" />
 
